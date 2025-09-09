@@ -855,6 +855,13 @@
       }
     }
   }
+  .hover\:bg-teal-400 {
+    &:hover {
+      @media (hover: hover) {
+        background-color: var(--color-teal-400);
+      }
+    }
+  }
   .hover\:bg-transparent {
     &:hover {
       @media (hover: hover) {
@@ -866,6 +873,13 @@
     &:hover {
       @media (hover: hover) {
         color: var(--color-teal-300);
+      }
+    }
+  }
+  .hover\:text-teal-400 {
+    &:hover {
+      @media (hover: hover) {
+        color: var(--color-teal-400);
       }
     }
   }
@@ -896,6 +910,11 @@
     @media (width >= 40rem) {
       font-size: var(--text-5xl);
       line-height: var(--tw-leading, var(--text-5xl--line-height));
+    }
+  }
+  .md\:right-28 {
+    @media (width >= 48rem) {
+      right: calc(var(--spacing) * 28);
     }
   }
   .md\:col-span-2 {

@@ -1,0 +1,161 @@
+AS
+AboutExperienceProjectsBlogsContact[Resume](https://ashwinsridharan0410.github.io/Ashwin-Sridharan-latest-resume.pdf)
+[](https://www.linkedin.com/in/ashwin-sridharan-b8474520a)[](https://github.com/AshwinSridharan0410)
+[ashwinsri04@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ashwinsri04@gmail.com)
+# Hi, my name is
+## Ashwin Sridharan.
+### I build solutions for the cloud.
+I'm a Site Reliability Engineer who loves building reliable systems and making complex processes simpler. My curiosity often takes me into the world of AI — from MLOps pipelines to the latest in LLMOps — where I explore how to connect infrastructure with intelligence. For me, engineering is about resilience, creativity, and always learning something new.
+Get In Touch
+##  01.About Me
+Passionate about engineering highly reliable and scalable systems, I specialize in automating complex infrastructures and streamlining cloud-native operations. I thrive on solving challenging problems and transforming them into practical, innovative solutions that empower organizations to excel.
+My expertise spans designing and operating resilient, self-healing platforms that seamlessly integrate across multiple cloud providers and hybrid setups, ensuring optimal performance under demanding conditions.
+Some of the technologies and frameworks I actively work with include:
+##  02.Where I've Worked
+Johnson ControlsVirtusa
+### Site Reliability Engineer- Devops @ Johnson Controls
+May 2023 – Present
+  * Built and operated production-grade Kubernetes clusters across GCP, Azure, AWS, and hybrid environments, ensuring high resilience and self-healing.
+  * Designed and implemented a Kubernetes-native CI/CD platform using Tekton, Buildpacks, and ArgoCD, enabling automated zero-downtime deployments and efficient release management.
+  * Onboarded 25+ mission-critical workloads to production using performance benchmarking, chaos testing, and load simulation for robust reliability.
+  * Managed cloud infrastructure across GCP, Azure, and AWS using Terraform and Ansible, delivering consistent, disaster-recovery ready deployments via GitOps and Infrastructure as Code.
+  * Automated database migrations and multiple validation steps across product teams, reducing continuous integration costs to zero by containerizing security scans with CodeQL.
+  * Reduced cloud costs by 25–30% through optimization strategies including eliminating unused resources, rightsizing compute/storage, auto-shutdown policies for non-production environments, and tag-based cost governance automation.
+  * Created a production-grade RAG chatbot using Azure OpenAI and vector embeddings to accelerate document access, enhancing team efficiency.
+  * Developed a Flask-based internal Dev Portal for CI/CD visibility and self-service integrations with GitHub and Grafana, boosting developer productivity and transparency.
+  * Implemented a comprehensive observability stack with Prometheus, Grafana, Loki, and Alertmanager, reducing alert fatigue by 60% through fine-tuned SLIs, SLOs, and health checks.
+
+
+##  03.Education
+Mar 2025 - Present
+### Bachelors in Science, Data Science and Programming
+Indian Institute of Technology Madras
+GPA: 8.01/10
+Relevant Coursework:
+  * AI: Search methods for Problem Solving
+  * Deep Learning
+  * MLOps
+  * Software Engineering
+  * Software Testing
+  * Strategies for Personal Growth
+  * Mangerial Economics
+
+
+Feb 2022 – Mar 2025
+### Diploma in Data Science and Programming
+Indian Institute of Technology Madras
+GPA: 8.01/10
+Relevant Coursework:
+  * Machine Learning Foundations
+  * Machine Learning Techniques
+  * Machine Learning Practises
+  * Tools in Data Science
+  * Business Data Management
+  * Business Analytics
+  * Programming, Data Structures and Algorithms using Python
+  * Programming Concepts using Java
+  * Modern Application Development I
+  * Modern Application Development II
+  * Database Management Systems
+  * System Commands
+
+
+Sept 2019 – May 2023
+### Bachelor of Technology, Information Technology
+Anna University, Chennai
+GPA: 9.28/10 | Department Topper, University 9th Rank
+Relevant Coursework:
+  * Operating Systems
+  * Computer Networks
+  * Big Data Analytics
+  * Cloud Computing
+  * Data Structures & Algorithms
+  * Database Management Systems
+  * Computer Architecture
+  * Cryptography and Network Security
+
+
+##  04.Some Things I’ve Built
+[](https://github.com/AshwinSridharan0410)[](https://github.com/AshwinSridharan0410)
+### Telehealth App with Image Encryption
+A secure telehealth platform enabling privacy-focused medical consultations, hosted on AWS. Built with Django and React.
+DjangoReactAWSEncryption
+[](https://github.com/AshwinSridharan0410)[](https://github.com/AshwinSridharan0410)
+### Household Management App
+Developed a web app to manage household chores and budgets, using Flask for backend and SQLite for local data storage.
+PythonFlaskSQLiteHTML/CSS
+[](https://github.com/AshwinSridharan0410)[](https://github.com/AshwinSridharan0410)
+### API-Driven Vue.js Quiz App
+Built a dynamic frontend using Vue.js connected to a custom REST API built in Python, enabling CRUD operations.
+Vue.jsPythonFlaskREST API
+[](https://github.com/AshwinSridharan0410)[](https://github.com/AshwinSridharan0410)
+### Retail Sales Optimization Analysis
+Conducted a full sales performance audit using Python (Pandas, Matplotlib) to identify high-margin products and bottlenecks.
+PythonPandasMatplotlib
+[](https://github.com/AshwinSridharan0410)[](https://github.com/AshwinSridharan0410)
+### Restaurant Visit Prediction
+Participated in a Kaggle ML competition to predict restaurant visit patterns using classification/regression models.
+KaggleMachine LearningScikit-learn
+[](https://github.com/AshwinSridharan0410)[](https://github.com/AshwinSridharan0410)
+### Production-grade RAG Chatbot
+Created a chatbot using Azure OpenAI and vector embeddings to accelerate document access for internal tooling.
+Azure OpenAIRAGVector DB
+##  05.My Blogs
+## MLOps
+  * [Day 0 - MLOps Roadmap](https://medium.com/@ashwinsri04/mlops-roadmap-da7c93a4ef33)
+  * [Day 1 - Introduction to MLOps: The Bridge Between Machine Learning and Production](https://medium.com/@ashwinsri04/introduction-to-mlops-the-bridge-between-machine-learning-and-production-a17b6ca9f084)
+
+
+More to come...
+## SRE Unplugged
+  * [What is Site Reliability Engineering(SRE)?](https://medium.com/@ashwinsri04/what-is-site-reliability-engineering-sre-a-beginners-guide-to-reliability-at-scale-59dbf726e721)
+
+
+More to come...
+## AI Basics to Breakthroughs
+More to come...
+## System Design Unlocked
+More to come...
+## Quant Finance
+  * [Day 0 - Quant Developer Roadmap](https://medium.com/@ashwinsri04/roadmap-overview-30-day-plan-to-become-quant-developer-2d1b30bab5e4)
+  * [Day 1 - Different Roles in Quant](https://medium.com/@ashwinsri04/day-1-30-quant-developer-orientation-775e754c006d)
+  * [Day 2 - Understanding Financial Markets, Options, and Risk through Python](https://medium.com/@ashwinsri04/day-2-30-understanding-financial-markets-options-and-risk-through-python-quant-dev-journey-e1414fdb93f8)
+  * [Day 3 - Math for Quants: Probability, Statistics & Risk](https://medium.com/@ashwinsri04/math-for-quants-probability-statistics-risk-1083661ffaff)
+
+
+More to come...
+##  06.My Skillset
+From cloud infrastructure and automation to backend development and system debugging, here are some of the key technologies and concepts I'm proficient in.
+Expertise in Container Orchestration with Kubernetes
+Deep understanding of Linux Internals
+Proficient in Google Cloud Platform (GCP)
+Advanced Performance Debugging
+Infrastructure as Code with Terraform
+Comprehensive Monitoring & Observability
+Robust CI/CD Pipeline Development
+Microsoft Azure Cloud Services
+Amazon Web Services (AWS) Expertise
+Containerization using Docker
+Automation with Ansible
+Python Programming and Scripting
+Java Application Development
+Network Security Best Practices
+Go Lang for Systems and Backend
+Spring Boot Framework
+SQL for Data Management
+Frontend Development with React.js
+MLOps: Model Training & Deployment Automation
+LLMOps: Large Language Model Integration & Management
+AI Frameworks: TensorFlow, PyTorch
+AI Services: Azure OpenAI, Vector Embeddings
+Machine Learning Pipeline Orchestration
+Data Engineering for AI/ML Workflows
+## 07. What’s Next?
+### Get In Touch
+I'm always open to new opportunities and collaborations. Whether you have a question or just want to say hi, my inbox is always open. I’ll do my best to get back to you!
+[Say Hello](https://mail.google.com/mail/?view=cm&fs=1&to=ashwinsri04@gmail.com)
+Ashwin's email-id to connect is ashwinsri04@gmail.com
+[](https://www.linkedin.com/in/ashwin-sridharan-b8474520a)[](https://github.com/AshwinSridharan0410)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ashwinsridharan0410.portfolio)
+Designed & Built by Ashwin Sridharan
+© 2025 Ashwin Sridharan. All Rights Reserved.
